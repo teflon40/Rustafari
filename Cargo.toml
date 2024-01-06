@@ -1,8 +1,0 @@
-[package]
-name = "rustafari"
-version = "0.1.0"
-authors = ["teflon40 <frimpong.bernard@gmail.com>"]
-edition = "2021"
-
-[dependencies]
-
